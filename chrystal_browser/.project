@@ -25,5 +25,25 @@
 			<type>1</type>
 			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/014 Departamentos Padres.png</location>
 		</link>
+		<link>
+			<name>Scripts/Browsers/019 Cargas Inventario.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/019 Cargas Inventario.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/020 Descargas Inventario.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/020 Descargas Inventario.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/021 Traslados Inventario.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/021 Traslados Inventario.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/022 Ajuste Inventario.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/022 Ajuste Inventario.png</location>
+		</link>
 	</linkedResources>
 </projectDescription>
