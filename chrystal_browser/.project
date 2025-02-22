@@ -15,5 +15,15 @@
 			<type>1</type>
 			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/003 Productos Terminados.png</location>
 		</link>
+		<link>
+			<name>Scripts/Browsers/005 Departamentos.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/005 Departamentos.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/014 Departamentos Padres.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/014 Departamentos Padres.png</location>
+		</link>
 	</linkedResources>
 </projectDescription>
