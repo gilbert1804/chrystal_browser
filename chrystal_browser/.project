@@ -65,5 +65,30 @@
 			<type>1</type>
 			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/046 Ordenes Compra.png</location>
 		</link>
+		<link>
+			<name>Scripts/Browsers/106 Estaciones.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/106 Estaciones.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/108 Numeraciones.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/108 Numeraciones.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/109 Monedas.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/109 Monedas.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/128 Productos Compuestos.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/128 Productos Compuestos.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/149 Productos y Servicios (Compras).png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/149 Productos y Servicios (Compras).png</location>
+		</link>
 	</linkedResources>
 </projectDescription>
