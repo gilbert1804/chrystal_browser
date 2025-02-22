@@ -66,6 +66,26 @@
 			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/046 Ordenes Compra.png</location>
 		</link>
 		<link>
+			<name>Scripts/Browsers/047 Recepcion Notas Entrega Compras.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/047 Recepcion Notas Entrega Compras.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/048 Facturas Compras.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/048 Facturas Compras.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/051 Orden Compra Espera.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/051 Orden Compra Espera.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/055 Ordenes Compra Pendientes.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/055 Ordenes Compra Pendientes.png</location>
+		</link>
+		<link>
 			<name>Scripts/Browsers/106 Estaciones.png</name>
 			<type>1</type>
 			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/106 Estaciones.png</location>
