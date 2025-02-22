@@ -1,4 +1,4 @@
-delete from browser where code='003';
+delete from browser where code='004';
 insert into browser(code,description,query,internal_search_field,show_field,full_screen,resizable,lenght,width,show_coin,coin_code,paginate,query_count,max_rows_by_page,font_size) values ('003','Productos Terminados ®','select 
     p.code,
     p.description,
