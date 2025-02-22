@@ -9,4 +9,11 @@
 	<natures>
 		<nature>org.jkiss.dbeaver.DBeaverNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Scripts/Browsers/003 Productos Terminados.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/003 Productos Terminados.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
