@@ -36,14 +36,34 @@
 			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/020 Descargas Inventario.png</location>
 		</link>
 		<link>
-			<name>Scripts/Browsers/021 Traslados Inventario.png</name>
+			<name>Scripts/Browsers/021 Traslado Inventario.png</name>
 			<type>1</type>
-			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/021 Traslados Inventario.png</location>
+			<location>C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/021 Traslados Inventario.png</location>
 		</link>
 		<link>
 			<name>Scripts/Browsers/022 Ajuste Inventario.png</name>
 			<type>1</type>
 			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/022 Ajuste Inventario.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/033 Facturas Ventas.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/033 Facturas Ventas.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/044 Facturas Pendientes.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/044 Facturas Pendientes.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/045 Proveedores.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/045 Proveedores.png</location>
+		</link>
+		<link>
+			<name>Scripts/Browsers/046 Ordenes Compra.png</name>
+			<type>1</type>
+			<location>//C:/Users/gilbe/git/chrystal_browser/chrystal_browser/Scripts/Browsers/046 Ordenes Compra.png</location>
 		</link>
 	</linkedResources>
 </projectDescription>
